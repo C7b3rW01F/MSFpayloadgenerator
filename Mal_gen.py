@@ -95,6 +95,3 @@ except KeyboardInterrupt:
     time.sleep(0.5)
     print("Thanks for Using. \U0001f600 \n")
 
-
-print("add some code")
-
